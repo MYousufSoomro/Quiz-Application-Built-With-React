@@ -1,5 +1,9 @@
 # Quiz Application Built with React
 
+## Live Version on Firebase:
+
+Visit [this link](https://react-quiz-app-1.firebaseapp.com/) to see live version of this project.
+
 ## Initial Steps:
 If you haven't yet, you should first [set up Git](https://help.github.com/en/articles/set-up-git). Don't forget to [set up authentication to GitHub from Git](https://help.github.com/en/articles/set-up-git#next-steps-authenticating-with-github-from-git) as well.
 
